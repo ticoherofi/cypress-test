@@ -1,4 +1,4 @@
-name: Cypress Tests
+name: Cypress Tests once a day
 
 on:
   schedule:
